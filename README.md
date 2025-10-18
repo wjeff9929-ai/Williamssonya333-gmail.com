@@ -1,4 +1,4 @@
-go-errors/errors
+go-errors/check the error on monitoring sites and databases text messaging that's crashed. See if we can bring them back from crashing errors
 ================
 
 [![Build Status](https://travis-ci.org/go-errors/errors.svg?branch=master)](https://travis-ci.org/go-errors/errors)
